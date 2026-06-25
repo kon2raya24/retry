@@ -19,3 +19,11 @@ npm install retry
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'retry';
+// See API section for available functions
+```
