@@ -1,3 +1,6 @@
+/**
+ * retrySync<T>
+ */
 export function retrySync<T>(
   fn: () => T,
   options: { maxAttempts?: number; baseDelay?: number } = {}
