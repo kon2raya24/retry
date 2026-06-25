@@ -1,3 +1,6 @@
+
+// Type exports for consumers
+// Add specific types as needed
 /**
  * retrySync<T>
  */
