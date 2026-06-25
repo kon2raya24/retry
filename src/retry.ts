@@ -1,3 +1,6 @@
+
+// Type exports for consumers
+// Add specific types as needed
 export async function retry<T>(
   fn: () => Promise<T>,
   options: { maxAttempts?: number; baseDelay?: number; maxDelay?: number } = {}
